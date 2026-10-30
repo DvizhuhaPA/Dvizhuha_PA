@@ -205,6 +205,13 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Local dependencies and temporary QA files
+.runtime/
+tmp/
+.jupyter/
+.ipython/
+.mplconfig/
+
 # Ruff stuff:
 .ruff_cache/
 
